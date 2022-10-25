@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "title": "Business permit ready for claiming.",
+      "postUpdateTime": 1483209000,
+      "id": 0,
+      "status": "open",
+      "type":1
+    },
+    {
+      "id": 0,
+      "title": "Admin has responded to your emergency report.",
+      "postUpdateTime": 1483209000,
+      "status": "open",
+      "type":2
+    },
+    {
+      "id": 0,
+      "title": "New Remark(s) on your eApplication.",
+      "postUpdateTime": 1483209000,
+      "status": "open",
+      "type":3
+    },
+    {
+      "id": 0,
+      "title": "Your Ad “Ad_name” will expire in 3 days.",
+      "postUpdateTime": 1483209000,
+      "status": "open",
+      "type":4
+    }
+  ]
+}

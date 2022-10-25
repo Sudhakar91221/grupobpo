@@ -1,0 +1,80 @@
+{
+    "blockId":1,
+    "blocks": [
+      {
+        "blockId": 1,
+        "fields": [
+           {
+            "label": "First Name",
+            "placehodler": "input first name",
+            "type": "input"
+          },
+           {
+            "label": "Input",
+            "placehodler": "select",
+            "type": "input"
+          },
+          {
+            "label": "Radio",
+            "placehodler": "select",
+            "type": "radio",
+            "options":["admin","adasdasdasd","adsfasdfasdfasd","adfasdfasdfasdf"]
+          },
+          {
+            "label": "Multiple Select",
+            "placehodler": "select",
+            "type": "multipleselect",
+            "options":["admin","adasdasdasd","adsfasdfasdfasd","adfasdfasdfasdf"]
+          },
+          {
+            "label": "Inner Input",
+            "placehodler": "select",
+            "type": "inputinner",
+            "options":["admin","adasdasdasd","adsfasdfasdfasd","adfasdfasdfasdf"]
+          },
+          {
+            "label": "Switch",
+            "placehodler": "select",
+            "type": "switch",
+            "options":["admin","adasdasdasd","adsfasdfasdfasd","adfasdfasdfasdf"]
+          },
+          {
+            "fieldId": 1,
+            "label": "Community Tax Certificate (CTC)",
+            "type": "attachment",
+            "placeholder": "Upload your files in .png, .jpg, .docx or .pdf"
+          },
+          {
+            "fieldId": 1,
+            "label": "Barangay Business Clearance",
+            "type": "attachment",
+            "placeholder": "Upload your files in .png, .jpg, .docx or .pdf"
+          },
+          {
+            "fieldId": 1,
+            "label": "DTI Certificate of Registration",
+            "type": "attachment",
+            "placeholder": "Upload your files in .png, .jpg, .docx or .pdf"
+          },
+          {
+            "fieldId": 1,
+            "label": "Real Property Tax Clearance",
+            "type": "attachment",
+            "placeholder": "Upload your files in .png, .jpg, .docx or .pdf"
+          },
+          {
+            "fieldId": 1,
+            "label": "Zoning Clearance",
+            "type": "attachment",
+            "placeholder": "Upload your files in .png, .jpg, .docx or .pdf"
+          },
+          {
+            "fieldId": 1,
+            "label": "Licence Of Embalmer",
+            "type": "attachment",
+            "placeholder": "Upload your files in .png, .jpg, .docx or .pdf"
+          }
+        ]
+      }
+    ]
+  }

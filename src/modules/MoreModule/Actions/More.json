@@ -1,0 +1,59 @@
+{
+    "data": [
+      {
+        "id":1,
+        "title":"Account Settings"
+      },
+      {
+        "id":5,
+        "title":"FAQs"
+      },
+       {
+        "id":4,
+        "title":"About app"
+      },
+       {
+        "id":5,
+        "title":"Privacy, Terms and Conditions"
+      },
+      
+      {
+        "id":5,
+        "title":"In-App Feedback"
+      },
+      {
+        "id":6,
+        "title":"Build Number",
+        "detail":"3"
+      },
+      {
+        "id":5,
+        "title":"Build Updated Date",
+        "detail":"23 Dec 2019"
+      }
+     
+    ]
+  }
+
+
+
+  // {
+  //   "id":2,
+  //   "title":"Chat Support"
+  // },
+  // {
+  //   "id":2,
+  //   "title":"Payment History (Advertisements)"
+  // },
+  // {
+  //   "id":2,
+  //   "title":"Payment History (eApplications)"
+  // },
+  //  {
+  //   "id":3,
+  //   "title":"My Job Applications"
+  // },
+  // {
+  //   "id":5,
+  //   "title":"In-App Feedback"
+  // }

@@ -1,0 +1,171 @@
+
+[
+  {
+    "key": "eCity",
+    "primaryColor": "#343957", 
+    "centerColor":"#343957", 
+    "disableButtonColor":"#454545",
+    "headerColor": "#000000",
+    "detailColor": "#454F63",
+    "detailPlaceholderColor":"darkgray",
+    // "backgroundColor":"#F2F3F8",
+    "backgroundColor":"white",
+    "navBarHeaderColor":"white",
+
+    "diffColor":"#FFB157",
+    "blueColor":"#2687ED",
+    "darkBlueColor":"#004B81",
+    "lightBrown":"#ce4407",
+    "redText":"#F44336",
+    "blue":"#2972BC",
+    "darkGray":"#484848",
+    "yellowText":"#FFEB00",
+    "grayText":"#cdcdcd",
+    "greenText":"#00B21B",
+    "weeklyOff":"#B28080",
+    "publicHoliday":"#979797",
+    "approvedLeave":"#888DAB",
+    "approvedByHr":"#31C03F",
+    "approvedBySup":"#2D7FC1",
+    "empResubmit":"#FDD000",
+    "supResubmit":"#FF9300",
+    "rejected":"#FF2600",
+    "white":"#FFFFFF",
+    "black":"#222222",
+    "net_pay":"#248C7D",
+    "payslip_special_day":"#E7832A",
+    "payslip_public_holiday":"#5DCFDC",
+    "payslip_double_holiday":"#179EF3",
+    
+  
+    "themeText":{
+      "fontFamily":"SFProText-Regular",
+      "color":"#81B833",
+      "fontSize": 11,
+      "textTransform": "capitalize"
+    },
+    "header":{
+      "fontFamily":"SFProText-Semibold",
+      "color":"#000000",
+      "fontSize": 17,
+      "textTransform": "capitalize"
+     },
+     "headerSmall":{
+      "fontFamily":"SFProText-Semibold",
+      "color":"#000000",
+      "fontSize": 15,
+      "textTransform": "capitalize"
+     },
+     "detailLarge":{
+      "fontFamily":"SFProText-Regular",
+      "color":"#000000",
+      "fontSize": 16,
+      "textTransform": "capitalize"
+    },
+     "detail":{
+      "fontFamily":"SFProText-Regular",
+      "color":"#000000",
+      "fontSize": 14,
+      "textTransform": "capitalize"
+    },
+    "detailSmall":{
+      "fontFamily":"SFProText-Regular",
+      "color":"#454F63",
+      "fontSize": 11,
+      "textTransform": "capitalize"
+    },
+    "detailMediumGray":{
+      "fontFamily":"SFProText-Regular",
+      "color":"#454F63",
+      "fontSize": 13,
+      "textTransform": "capitalize"
+    },
+    "latoheader":{
+      "fontFamily":"Lato-Regular",
+      "color":"#000000",
+      "fontSize": 16,
+      "fontWeight":"bold",
+      "textTransform": "capitalize"
+     },
+     "latodetail":{
+      "fontFamily":"Lato-Regular",
+      "color":"#000000",
+      "fontSize": 13
+    },
+    "navHeader":{
+      "fontFamily":"SFProDisplay-Bold",
+      "color":"#000000",
+      "fontSize": 30,
+      "fontWeight":"bold"
+    },
+    "H1":{
+      "fontFamily":"SFProText-Semibold",
+      "color":"#000000",
+      "fontSize": 27,
+      "textTransform": "capitalize"
+    },
+    "H2":{
+      "fontFamily":"SFProText-Semibold",
+      "color":"#000000",
+      "fontSize": 24,
+      "textTransform": "capitalize"
+    },
+    "H3":{
+      "fontFamily":"SFProText-Semibold",
+      "color":"#000000",
+      "fontSize": 22,
+      "textTransform": "capitalize"
+    },
+    "buttonText":{
+      "fontFamily":"SFProText-Semibold",
+      "color":"white",
+      "fontSize": 17,
+      "textAlign":"center",
+      "textTransform": "capitalize"
+    },
+
+    "diffText":{
+      "fontFamily":"SFProText-Medium",
+      "fontWeight": "700",
+      "color":"#FFB157",
+      "fontSize": 16,
+      "marginHorizontal":0,
+      "textAlign":"left",
+      "textTransform": "capitalize"
+    },
+    "blueText":{
+      "fontFamily":"SFProText-Medium",
+      "fontWeight": "700",
+      "color":"#343957",
+      "fontSize": 18,
+      "marginHorizontal":0,
+      "textAlign":"left",
+      "textTransform": "capitalize"
+    },
+    "detailPlaceholder":{
+      "fontFamily":"SFProText-Medium",
+      "fontWeight": "300",
+      "color":"darkgray",
+      "fontSize": 18,
+      "textTransform": "capitalize"
+    },
+
+    "startColor":"#FDC808",
+    "endColor":"#44CAD0",
+    "endColor1":"#9A6B58",
+    "menuColor":"white",
+    "testColor":"green",
+    
+    
+
+    //PROJECT SPECIFIC
+    "completeBackColor" : "#F4FFF3",
+    "processingBackColor": "#FFF9F5",
+    "claimingBackColor": "#E0F7FF",
+    "completeColor": "#F4FFF3",
+    "processingColor": "#E0D9C7",
+    "claimingColor": "#FFF9F5"
+      
+  }
+
+]
