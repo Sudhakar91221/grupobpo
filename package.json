@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@react-native-community/cli-platform-android": "^9.2.1",
+    "@react-native-community/cli-platform-android": "^13.5.2",
     "@react-native-community/netinfo": "^9.3.5",
     "@redux-offline/redux-offline": "^2.6.0",
     "axios": "^1.1.3",
